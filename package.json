@@ -93,7 +93,6 @@
   },
   "devDependencies": {
     "@herowcode/eslint-config": "^1.2.2",
-    "@rollup/rollup-win32-x64-msvc": "^4.62.3",
     "@types/node": "^20.14.11",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
